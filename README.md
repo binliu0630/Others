@@ -1,2 +1,2 @@
-# virtualenv
-How to set up Virtualenv with Jupyter Notebook
+# Others
+Include all other general Data Science task, such as: Virtual Env, etc
